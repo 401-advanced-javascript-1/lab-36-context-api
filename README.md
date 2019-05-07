@@ -7,6 +7,6 @@ Create a React application that wraps the entire <App/> with a context provider,
 Specifically, build a counter that uses 3 separate components that subscribe to a common provider.
 
 ## Links
-![CodeSandbox](https://codesandbox.io/embed/lrvr83vpwm?fontsize=14)
+[CodeSandbox](https://codesandbox.io/embed/lrvr83vpwm?fontsize=14)
 
 ## UML

@@ -10,3 +10,4 @@ Specifically, build a counter that uses 3 separate components that subscribe to 
 [CodeSandbox](https://codesandbox.io/embed/lrvr83vpwm?fontsize=14)
 
 ## UML
+![alt](https://github.com/401-advanced-javascript-1/lab-36-context-api/blob/master/img/lab-36-context.JPG)
